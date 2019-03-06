@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FBSdkDemo</string>
+    <string name="facebook_app_id">253555275584057</string>
 </resources>
