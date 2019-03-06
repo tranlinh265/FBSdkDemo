@@ -22,4 +22,5 @@
             android:value="@string/facebook_app_id"/>
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
